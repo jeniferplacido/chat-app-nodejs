@@ -7,21 +7,9 @@
     "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jeniferplacido/chat-app-nodejs.git"
-  },
-  "author": "Jenifer Placido",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/jeniferplacido/chat-app-nodejs/issues"
-  },
   "dependencies": {
     "express": "^4.19.2",
     "express-handlebars": "^7.1.2",
     "socket.io": "^4.7.5"
   },
-  "engines": {
-    "node": "15.x"
-  }
 }
